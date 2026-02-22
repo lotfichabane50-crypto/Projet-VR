@@ -20,7 +20,7 @@ Vidéo de démonstration :  La vidéo est intégrée dans notre présentation Ca
 
 Lien du projet CoSpaces : 
 
-Présentation Canva : https://www.canva.com/design/DAHCDGBGzOI/-azc6AHhS4f399L6svVEig/edit?utm_content=DAHCDGBGzOI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Présentation Canva : https://www.canva.com/design/DAHCDGBGzOI/-azc6AHhS4f399L6svVEig/view
 
 Équipe : 
 
