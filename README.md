@@ -6,13 +6,13 @@ On a imaginé un univers médiéval dans lequel l’utilisateur peut se déplace
 
 Fonctionnalités techniques
 
-Navigation – On a mis en place un système de téléportation entre deux points pour permettre à l’utilisateur de se déplacer rapidement dans la scène.
+Navigation :  On a mis en place un système de téléportation entre deux points pour permettre à l’utilisateur de se déplacer rapidement dans la scène.
 
-Feedback sonore – Un son se déclenche à chaque téléportation pour montrer que l’action a bien été prise en compte.
+Feedback sonore : Un son se déclenche à chaque téléportation pour montrer que l’action a bien été prise en compte.
 
-Interaction avec le premier chevalier – Quand on clique dessus, un panneau apparaît avec des informations pour orienter le joueur.
+Interaction avec le premier chevalier :  Quand on clique dessus, un panneau apparaît avec des informations pour orienter le joueur.
 
-Interaction avec le deuxième chevalier – Cette fois, on a choisi un effet visuel : le chevalier change de couleur et des particules apparaissent pour rendre l’interaction plus dynamique.
+Interaction avec le deuxième chevalier : Cette fois, on a choisi un effet visuel : le chevalier change de couleur et des particules apparaissent pour rendre l’interaction plus dynamique.
 
 Livrables
 
