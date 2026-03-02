@@ -18,7 +18,7 @@ Livrables
 
 Vidéo de démonstration :  La vidéo est intégrée dans notre présentation Canva.
 
-Lien du projet CoSpaces : https://edu.delightex.com/FLD-YBW
+Lien du projet CoSpaces : https://edu.delightex.com/FML-EMZ
 
 Présentation Canva : https://www.canva.com/design/DAHCDGBGzOI/-azc6AHhS4f399L6svVEig/view
 
