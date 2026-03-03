@@ -28,4 +28,4 @@ Présentation Canva : https://www.canva.com/design/DAHCDGBGzOI/-azc6AHhS4f399L6s
 
 Équipe : 
 
-Lotfi et Loïc
+Lotfi , Loïc et Thomas
