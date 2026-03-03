@@ -14,9 +14,7 @@ Interaction avec le premier chevalier :  Quand on clique dessus, un panneau appa
 
 Interaction avec le deuxième chevalier : Cette fois, on a choisi un effet visuel : le chevalier change de couleur et des particules apparaissent pour rendre l’interaction plus dynamique.
 
-Ancres de TP : TP_entrer_Exterieur, TP_entrer_Interieur, TP1_Duel, TP2_Duel.
-
-Décor : Porte_Entree, Mur_1 jusqu'à Mur_8.
+Ancres de TP 
 
 Personnages : Chevalier_1, Chevalier_2.
 
@@ -24,7 +22,7 @@ Livrables
 
 Vidéo de démonstration :  La vidéo est intégrée dans notre présentation Canva.
 
-Lien du projet CoSpaces : https://edu.delightex.com/EQJ-QDF
+Lien du projet CoSpaces : https://edu.delightex.com/WZV-SAW
 
 Présentation Canva : https://www.canva.com/design/DAHCDGBGzOI/-azc6AHhS4f399L6svVEig/view
 
