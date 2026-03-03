@@ -16,7 +16,7 @@ Interaction avec le deuxième chevalier : Cette fois, on a choisi un effet visue
 
 Ancres de TP 
 
-Personnages : Chevalier_1, Chevalier_2.
+Personnages 
 
 Livrables
 
