@@ -6,7 +6,7 @@ On a imaginé un univers médiéval dans lequel l’utilisateur peut se déplace
 
 Fonctionnalités techniques
 
-Navigation :  On a mis en place un système de téléportation entre deux points pour permettre à l’utilisateur de se déplacer rapidement dans la scène.
+Navigation :  On a mis en place un système de 4 téléportation pour franchir la porte de l'arène (TP_entrer_Exterieur et TP_entrer_Interieur), ainsi que deux points de vue stratégiques (TP1_Duel et TP2_Duel) placés de chaque côté des chevaliers pour observer le combat sous tous les angles.
 
 Feedback sonore : Un son se déclenche à chaque téléportation pour montrer que l’action a bien été prise en compte.
 
